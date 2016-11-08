@@ -54,7 +54,6 @@ nav {
   margin-top: 300px;
   font-size: 1.7em;
 }
-
 nav a:hover{
   color: black;
   border-top: 4px solid black;
@@ -63,10 +62,6 @@ nav a:hover{
 
 /*Skills*/
 #skills{
- background-image: url("https://s15.postimg.org/6wxiwswez/Untitled_1.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
   width: 100vw;
   height: 101vh;
   border-top: black solid 2px;
@@ -78,11 +73,17 @@ nav a:hover{
   background-size: cover;
   filter: grayscale(50%);
   text-align: center;
-	font-size: 3.2em;
-	color: white;
+  font-size: 3.2em;
+  color: white;
   padding-top: 50px;
+    margin-bottom: 150px;
   height: 120px;
   font-family: 'Raleway', sans-serif;
+}
+#skills p{
+      text-align: center;
+	font-size: 1.5em;
+	color: white;  
 }
 
 /*Portfolio*/
