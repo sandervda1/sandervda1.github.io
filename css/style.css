@@ -1,0 +1,156 @@
+body{
+  background-color: #949494;
+  margin-left: -17px;
+  margin-top: -95px;
+  margin-bottom: -1px;
+  font-family: 'Open Sans Condensed', sans-serif;
+
+}
+/*header*/
+header{
+  margin-top: 97px;
+  width: 100vw;
+	height: 100vh;
+	background-image: url("http://www.mgutierrez.com.mx/images/bg-1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+  background-position: center;
+}
+header h1{
+	text-align: center;
+	font-size: 3.5em;
+	color: white;
+  padding-top: 130px;
+  font-family: 'Raleway', sans-serif;
+}
+ header img{
+	width: 200px;
+	display: block;
+	margin: 0 auto;
+  border-radius: 100px;
+}
+header p{
+  text-align: center;
+	font-size: 1.5em;
+	color: white;
+  padding-top: 20px;
+}
+
+/*navigatie*/
+nav ul{
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+  border-top: 2px solid white;
+  position: fixed;
+  width: 100vw;
+}
+nav a{
+  text-decoration: none;
+  color: white;
+  border-top: 2px solid white;
+}
+nav {
+  margin-top: 300px;
+  font-size: 1.7em;
+}
+
+nav a:hover{
+  color: black;
+  border-top: 4px solid black;
+}
+
+
+/*Skills*/
+#skills{
+ background-image: url("https://s15.postimg.org/6wxiwswez/Untitled_1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100vw;
+  height: 101vh;
+  border-top: black solid 2px;
+}
+#skills h1{
+  background-image: url("https://s15.postimg.org/62p17fjob/2014_10_06_e8_codingkeybo_0bbab.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: grayscale(50%);
+  text-align: center;
+	font-size: 3.2em;
+	color: white;
+  padding-top: 50px;
+  height: 120px;
+  font-family: 'Raleway', sans-serif;
+}
+
+/*Portfolio*/
+#portfolio{
+  background-image: url("https://s13.postimg.org/a0jkdm4t1/razer_ultrabook_keyboard_100649585_orig_10068950.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  border-top: black solid 2px;
+}
+#portfolio h1{
+  text-align: center;
+	font-size: 3.2em;
+	color: white;
+  padding-top: 50px;
+  font-family: 'Raleway', sans-serif;
+}
+#portfolio img{
+	width: 150px;
+	display: block;
+	margin: 0 auto;
+  padding-top: 50px;
+}
+
+/*Contact*/
+#contact{
+  background-color: #949494;
+  width: 100vw;
+  height: 101vh;
+  border-top: black solid 2px;
+}
+#contact h1{
+  background-image: url("http://media-cdn.timesfreepress.com/img/photos/2015/11/12/1447359045_ComputerCode_t1070_h31ee265fb8ab7542d7a18f30a6fccc6c3f33db10.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: hue-rotate(120deg);
+  text-align: center;
+	font-size: 3.2em;
+	color: white;
+  padding-top: 50px;
+  height: 120px;
+  font-family: 'Raleway', sans-serif;
+}
+#contact img{
+  width: 110px;
+	display: block;
+	margin: 0 auto;
+  margin-top: -25px;
+  filter: grayscale(50%);
+}
+#facebook{
+  text-align: center;
+  font-size: 2em;
+}
+#mail{
+  text-align: center;
+  font-size: 2em;
+  margin-top: 150px;
+}
+#my_mail{
+  text-align: center;
+  font-size: 1.7em;
+  border: black solid 1px;
+  border-radius: 10px;
+  width: 450px;
+  margin: 0 auto;
+  margin-top: -15px;
+}
