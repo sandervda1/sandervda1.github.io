@@ -59,33 +59,6 @@ nav a:hover{
   border-top: 4px solid black;
 }
 
-
-/*Skills*/
-#skills{
-  width: 100vw;
-  height: 101vh;
-  border-top: black solid 2px;
-}
-#skills h1{
-  background-image: url("https://s15.postimg.org/62p17fjob/2014_10_06_e8_codingkeybo_0bbab.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  filter: grayscale(50%);
-  text-align: center;
-  font-size: 3.2em;
-  color: white;
-  padding-top: 50px;
-    margin-bottom: 150px;
-  height: 120px;
-  font-family: 'Raleway', sans-serif;
-}
-#skills p{
-      text-align: center;
-	font-size: 1.5em;
-	color: white;  
-}
-
 /*Portfolio*/
 #portfolio{
   background-image: url("https://s13.postimg.org/a0jkdm4t1/razer_ultrabook_keyboard_100649585_orig_10068950.jpg");
@@ -149,8 +122,6 @@ nav a:hover{
 #my_mail{
   text-align: center;
   font-size: 1.7em;
-  border: black solid 1px;
-  border-radius: 10px;
   width: 450px;
   margin: 0 auto;
   margin-top: -15px;
