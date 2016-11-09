@@ -112,12 +112,13 @@ nav a:hover{
 }
 #facebook{
   text-align: center;
-  font-size: 2em;
+  font-size: 2.2em;
+    margin-top: 100px;
 }
 #mail{
   text-align: center;
-  font-size: 2em;
-  margin-top: 150px;
+  font-size: 2.2em;
+  margin-top: 100px;
 }
 #my_mail{
   text-align: center;
